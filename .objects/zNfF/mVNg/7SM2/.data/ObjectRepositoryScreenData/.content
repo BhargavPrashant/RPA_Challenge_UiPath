@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="Z1lG-wGwo0KnNtr7CxGXXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" FilePath="C:\Program Files\Microsoft Office\root\Office16\powerpnt.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAJiSURBVGhD7ZhBTxNBGIb7H7xjogl/gB/AjaMJZzlwIsiBC0YPRL14azCGBpM2JggBe1rvcPFiYrxVMRYjLYFsUjQxWgmSBpKPfZcZHZavuzvLN3QP+yTvod1p9322s7vTLRXknVtDN6ccZjLIDbUrN2BH5IjnC8+2nUu4FHi9tk5/ut3vTiVcCwCnEtchAJxJSAocbbwMc/z+DZ3sfab11RW15RwnEi4EdFYezaot/xGXsBXo9XrUaDSoXq9TpVIJo4kKvJqfUVsuIiphI9But6lWq/0rnlUAiEmkFWg2m5eK62hsBICIRBoBHHmuuI6GEzCztlgOr0xm9M1O1bEnSQBz3pw21WqVPM9LJRANrk4c6KDq2JMk0Ol0qNVqke/76p1zsgggHE4EDj9+oN/vNqmzukh75Yf07f4EfRofocbYcLg9FwJBmdHHI7eXuJJxAZxAVlILBDtfDvI2yC9dJkvAoATYQrYBpkCaxFEI2AZwJfsFy444ci+AtVMcuRbATRA3wziuLBCld+DTD2+ZHYsAriwXLEOSEBfQ9JMAXNlosABMg5iA/+Ip7T65F/4C4PSw23c8V1gH0ybNkdeICezM3Q1f486siY5FgPmHRgfv4YRNmvNRxAWwBgJxv4AkYgJ/d76E0fzc8GLHS+HkJMZqdKvPwk4aMQEc8f3yA/o6fYcdpwO4pbJNTMTPgaQArpRNTAYiIEkhYBvATQubmBQCtpGmELAN4KaFTUxsBMSeSnClbGKSWiBKUCbzcyFJMgsAfFh9zwWSnsxJ4kTgOikE1PcMjCsL5CGqTkHOKJXOAER54JT4dWkeAAAAAElFTkSuQmCC" Selector="&lt;wnd app='powerpnt.exe' cls='PPTFrameClass' title='Lesson 2 - Introduction to UiPath.pptx - PowerPoint' /&gt;&lt;wnd cls='mdiClass' /&gt;" Title="">
+      <imageRef attrName="InformativeScreenshot" originalValue="4cabf87ad30e6969f7bb51ec131517de.png" xmlns="">0w0wpgNMBMkibqjX7qPwxyA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
